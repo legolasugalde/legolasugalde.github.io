@@ -1,1 +1,1 @@
-# https://legolasugalde.github.io
+http://legolasugalde.github.io
